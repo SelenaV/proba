@@ -1,0 +1,52 @@
+/*--General
+--Header
+--Pages
+----Portfolio
+----O meni
+----Kontakt*/
+
+/*font-family: 'Montserrat', sans-serif;
+font-family: 'Open Sans', sans-serif;*/
+
+/*--General*/
+
+/*--Header*/
+header {
+	padding: 20px 0 0;
+	text-align: center;
+	background-color: #242424;
+	color: #fff;
+}
+
+nav ul {
+	list-style: none;
+	padding: 30px 0;
+	background-color: #e74c3c;
+}
+nav ul li {
+	display:inline;
+}
+a {
+		text-decoration: none;
+}
+.logo {
+	margin-bottom: 0;
+	font-size: 20px;
+}
+.titula {
+	margin-top: 0;
+	margin-bottom: 30px;
+	font-size: 10px;
+}
+.selected {
+	text-decoration:underline;
+}
+/*---Pages*/
+.main-content {
+	padding: 50px 10px;
+}
+/*----Portfolio*/
+.projekat {
+	width:100%;
+	margin: 
+}
